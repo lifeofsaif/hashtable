@@ -1,0 +1,22 @@
+ JAVA
+
+     constructors have no publics or voids i suppose.... for now... lol.....
+
+     have to declare instance of class within the main function, even though it is in the class....
+
+     ARRAYS
+        curly brackets are a quick way to declare new arrays i.e.
+            String[] elementsToAdd = {"1", "this doesnt look right"};
+        they can also be used to reinit arrays 
+            elementsToAdd = new String[] {"fuck", "saif"}
+
+    HASH(MAPS/TABLES)
+        HASH TABLES ARE BAD!!!!! WE DO NOT USE THEM IF ITS NOT ALREADY BEING USED
+        
+
+
+
+        
+        
+ 
+ 
